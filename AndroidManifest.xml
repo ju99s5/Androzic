@@ -23,7 +23,7 @@
     package="com.androzic"
     android:installLocation="auto"
     android:versionCode="95"
-    android:versionName="1.7.9" >
+    android:versionName="1.7.9-SeaVenti" >
 
     <supports-screens
         android:anyDensity="true"
